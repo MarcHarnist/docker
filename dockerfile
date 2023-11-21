@@ -1,8 +1,9 @@
 # Formation Docker CCi Niort - Estia
 # Guillaume FIALAIRE
 
-# -t pseudo terminal
-# -i tells Docker to connect us to the container's stdin 
+### EXPLICATIONS 
+#    -t pseudo terminal
+#    -i tells Docker to connect us to the container's stdin 
 #    (Les stdinpointeurs constants , stdoutet stderr globaux
 #    sont des flux standard pour l’entrée, la sortie et la 
 #    sortie d’erreur.)
