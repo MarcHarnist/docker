@@ -2,4 +2,5 @@ services:
   docker: #nom du projet
     build: .
 
+
 # To run: terminal / docker compose up
