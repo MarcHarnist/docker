@@ -5,7 +5,6 @@ Avec Guillaume FIALAIRE
 
 # Open container
 
-
 # Run
 ## In terminal:
 docker run -ti figlet

@@ -11,7 +11,8 @@
 FROM ubuntu
 RUN apt-get update
 RUN apt-get install figlet
-commande :
-    docker build -t figlet .
-    docker run -ti figlet
+CMD ["figlet", "Hello c'est Marc"]
+# commande :
+#    docker build -t figlet .
+#   docker run -ti figlet
 
